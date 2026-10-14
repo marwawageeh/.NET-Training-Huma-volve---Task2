@@ -47,8 +47,8 @@ Screenshots showing the API output and Swagger testing will be added here.
 After adding your images to the repository, you can display them like this (update the paths to match your image filenames):
 
 ```markdown
-![Swagger API output](screenshots/swagger-output.png)
-![API response](screenshots/api-response.png)
+<img width="1182" height="721" alt="image" src="https://github.com/user-attachments/assets/3c985ff6-b01a-487e-9c81-a577b8131e31" />
+
 ```
 
 ## How to Run
