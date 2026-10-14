@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced EF Core(Marwa wageeh farraj)", "Advanced EF Core(Marwa wageeh farraj)\Advanced EF Core(Marwa wageeh farraj).csproj", "{BDE80E94-5559-4422-8B07-2B39568DECF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE80E94-5559-4422-8B07-2B39568DECF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE80E94-5559-4422-8B07-2B39568DECF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE80E94-5559-4422-8B07-2B39568DECF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE80E94-5559-4422-8B07-2B39568DECF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {086B8D54-BEB7-4777-BBB4-577AF8A8112A}
+	EndGlobalSection
+EndGlobal
