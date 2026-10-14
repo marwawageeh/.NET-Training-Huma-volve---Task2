@@ -41,15 +41,9 @@ Advanced EF Core(Marwa wageeh farraj)/
 └── appsettings.json
 ```
 
-## Screenshots
-Screenshots showing the API output and Swagger testing will be added here.
+## API Testing Screenshots
 
-After adding your images to the repository, you can display them like this (update the paths to match your image filenames):
-
-```markdown
-<img width="1182" height="721" alt="image" src="https://github.com/user-attachments/assets/3c985ff6-b01a-487e-9c81-a577b8131e31" />
-
-```
+All API request and response outputs have been uploaded to the `screenshots` folder.
 
 ## How to Run
 1. Clone or download this repository.
